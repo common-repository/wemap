@@ -1,0 +1,17 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 2,
+	"name": "wemap/wemap",
+	"version": "0.9.0",
+	"title": "wemap",
+	"category": "widgets",
+	"icon": "smiley",
+	"description": "Wemap.",
+	"supports": {
+		"html": false
+	},
+	"textdomain": "wemap",
+	"editorScript": "file:./index.js",
+	"editorStyle": "file:./index.css",
+	"style": "file:./style-index.css"
+}
